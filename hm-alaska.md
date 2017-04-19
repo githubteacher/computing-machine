@@ -1,3 +1,8 @@
 # Alaska
 
-## Restaurent
+## Restaurents
+
+## Hotels
+
+## Tours
+
