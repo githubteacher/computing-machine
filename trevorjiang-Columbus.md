@@ -1,9 +1,9 @@
 # Welcome to Columbus, OH
 
 ### Places to eat
-- Ranch good
-- Where to eat
+- Buckeye dounts
+- Snow_ice ice cream
 
 ### Places to visit
-- Guess what
-- You can name it
+- Watch college football, we are the champion 
+- Socket game is good also
