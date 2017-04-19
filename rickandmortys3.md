@@ -1,4 +1,4 @@
-# Recommended TV show
+# Recommended TV show "Rick and Morty Season 3"
 | overall  | No. in season  | Title  |  Directed by |  Written by | Original air date | U.S. viewers (millions) |
 |---|---|---|---|---|---|---|
 | 22  | 1 | "The Rickshank Rickdemption" | Juan Meza-Leon | Mike McMahan | April 1, 2017 | 0.68 |
